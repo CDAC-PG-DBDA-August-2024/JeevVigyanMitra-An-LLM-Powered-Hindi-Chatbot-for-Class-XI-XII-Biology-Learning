@@ -1,0 +1,2 @@
+# JeevVigyanMitra-An-LLM-Powered-Hindi-Chatbot-for-Class-XI-XII-Biology-Learning
+The primary objective of this project is to develop an Hindi-language chatbot powered by LLaMA-3, designed to assist 11th and 12th-grade students in learning Biology. This system aims to enhance science education accessibility for Hindi-speaking students, bridging linguistic gaps and fostering a deeper understanding of Biology.
